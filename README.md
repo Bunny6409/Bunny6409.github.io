@@ -33,13 +33,13 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <ul id="Olympian"><li>Alcyoneus - Bane of<a href="#Hades"> Hades</a></li>
 	<li>Porphyrion (King of the giants) - Bane of <a href="#Zeus"> Zeus </a></li>
 <li> Polybotes - Bane of <a href="#Horses">Poseidon</a> </li>
-<li>Otis and Ephialtes (twins) - Bane of Dionysus</a></li>
+<li>Otis and Ephialtes (twins) - Bane of Dionysus</li>
 <li> Orion - Bane of Apollo and <a href="##Artemis">Artemis</a></li>
 <li> Hippolytus- Bane of Hermes</li>
-<li>Enceladus - Bane of Athena</a></li>
-<li>Damasen - Bane of Ares</a></li>
-<li> Mimas</a> - Bane of Hephaestus</a></li>
-<li>Periboia - Bane of Aphrodite</a></li>
+<li>Enceladus - <a href="#Athena">Bane of Athena</a></li>
+<li>Damasen - Bane of Ares</li>
+<li> Mimas</a> - Bane of Hephaestus</li>
+<li>Periboia - Bane of Aphrodite</li>
 <li> Clytius - Bane of Hecate</li>
 <li>Thoon - Bane of the Fates</li></ul>
 <table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
@@ -64,7 +64,6 @@ And Periboia (born to oppose Aphrodite : The Goddess of Love )  was the only fem
 
 <li id="Horses"> <strong>Poseidon </strong>- God of Sea , Earthquakes and Horses . He has a throne in Olympus (Zeus's Palace) and is an Olympian himself . He is the father of the famous hero <strong> Theseus .</strong> He has a lot of powers and his children can breathe underwater and control the water .  Poseidon has an underwater palace . He is the lord of Earthquakes and created horses . He is also known as <strong> Father of Horses and Earthshaker</strong> His symbol of power is his trident which is his prized posession and a very valuable weapon . He has bad relation with Zeus as Poseidon tried to unseat him by participating in the First Olympian Riot . He also has rivarly with Athena . They both competed to be the God of Athens . The people of the city asked both of them to present some gifts . Poseidon made a saltwater spring appear . But the water was very salty and unfit for consumpition while Athena made an olive tree . The people of Athens saw the Olive Tree as a better present . Therefore , to honour Athena the capital city of Greece was name after her <strong> Athens .</strong> Poseidon is also hated by his brother , Hades . <strong> Father : Kronos and Mother : Rhea </strong></li><br>
 
-
 <li id="Hades"> <strong> Hades -</strong> Lord of the Dead and king of the Underworld . He has poor relations with other Olympians due to his bad reputation for being the Lord of the Underworld (the place where people's spirits go after death ) He does not have a throne on Olympus and he and his children are always left out as they belong to the Underworld . This makes Hades really mad . The Olympians also never give him any help or justice . Hades is a trickester and can be very deceiving . His symbol of power is his Helm of Darkness which allows him to become and control <strong> darkness .</strong> <strong> Father : Kronos and Mother : Rhea </strong> </li><br>
 <li id="Heracles"> <strong>Hera</strong> - The Queen of the Olympians and goddess of marriage . She was always jealous of the women (especially mortal women) Zeus , her husband and brother  married . Whenever this happened she would curse the woman and her child if possible . She was kidnapped by Porphyion , the king of giants during the First Giant War . She resented and got fed up of her husband and started the <strong> First Olympian Riot</strong> to unseat Zeus . 
 She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of children with Zeus who became Olympians like Ares . <strong> Father : Kronos and Mother : Rhea </strong>   </li><br>
@@ -74,7 +73,7 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	However , The Hunters of Artemis can't die of any sickness or old age or even unusual accidents .
 </li> <br>
 <li><strong> Apollo</strong> - God of Sun , Archery , Healing , Poetry , Prophecy and Disease . Apollo is famously knowns as the <strong> God of Sun</strong> and also has a sun chariot which drives around the world . While he is the god of Poetry and also being twin brother of <a href="##Artemis"> Artemis  </a> he is also the god of Archery . And he is also god of healing and the god who prevents panamedics and other diseases .  His son Asklepios , is the god of medicene . He is also an immortal and a much better healer than Apollo . But less renowned . He can just look at you and tell if you suffered a fracture 10 years ago . Asklepios was the first one to ever develop the <strong> Physician's Curse</strong> which is a potion that can bring someone back to life . If someone dies by an arrow or disease or accident if he/she will just take a dose of the Physician's Curse before their death they won't die even under the most ghastly of circumstances .  However , when Askelepios gave someone the phyiscian's curse (this is the only time it happened ) they brought back someone from the dead . <strong><a href="#Hades"> Hades</a></strong> Lord of Dead complained to <strong><a href="#Zeus"> Zeus</a> </strong> . Zeus got paranoid that Askelpios will make every person immortal with that potion . So , Zeus slew him with his lightning bolt . Apollo was mad at Zeus for this but he knew better than to attack the King of Olympians directly . So he killed some of the Elder Cyclopes who made Zeus's lightning bolt . Zeus punished Apollo and there was a loathing between the two which could even lead to war . To make peace , Zeus made Asklepios - God of Medicine . 
-
+<li id="Athena"> <strong> Athena </strong> is goddess of wisdom , battle startegy . She is the daughter of Zeus . She has no mother has she sprang from Zeus's skull . The Capital of Greece was named after Athena . She has rivarly with Poseidon as she competed for the post of god of Athens . She is really wise being the goddess of wisdom . She was Zeus's favourtie daughter and Athena was a fierce warrior . She also dosen't get along with Ares . She is the Oympian whi prevents the gods from making unwise descisions .  </li>
 
 </ul>
 
