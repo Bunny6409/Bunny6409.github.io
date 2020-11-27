@@ -1,6 +1,5 @@
 # Bunny6409.github.io
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
-<link rel="stylesheet" type="text/css" href="greek.css"
 
     	
 <img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;">
