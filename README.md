@@ -2,7 +2,8 @@
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
 
     	
-
+<img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;">
+<span> <em>The major</em> <strong> Greek Gods</strong></span>
 
 <h2 id="Age"> The start of time </h2>
 <p> According to Greek Mythology , there were 4 ages before the gods . The fourth age was entierly ruled by the Titans also known as the Golden Age .
@@ -13,6 +14,7 @@ He cut his own father with his own  scythe . Even though Ouranus didn't die he w
 
 
 </p>
+<img alt="Kronos and Uranus | Mythology &amp; Cultures Amino" class="n3VNCb" src="https://pm1.narvii.com/6590/1e784f519a7d5caad1ba75e89dc130d950ab7b0c_hq.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5709.190000023227" style="width: 383px; height: 219.355px; margin: 0px;">
 
 <h3 id="Midas"> The Golden Age</h3>
 <p> After Ouranus was overthrown , gradually Kronos become the king of the Titans . His reign was called the Golden Age also known as the fourth age . Even though Kronos was evil and all he wanted was power the reason his reign was called the Golden age is because the Titans were very rich during this age and they had a lot of resources . But humans (known as mortals by gods and titans) and <a href="#demigods">demigods</a> were mistreated . There were many titans during that era and the Titan of the  Ocean was Oceanus . Kronos married Rhea another immortal and gave birth to six children in the following order : <a href="##Hestia">Hestia </a>, <a href="##Demeter">Demeter</a> , <a href="#Hera">Hera</a> , <a href="#Hades">Hades</a> ,<a href="#Horses"> Poseidon </a>and <a href="#Zeus">Zeus</a> . <br> 
@@ -20,6 +22,7 @@ He cut his own father with his own  scythe . Even though Ouranus didn't die he w
 <p>
 Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods</a> by the way . Kronos became paranoid that his immortal children will overthrow him like he had done to his father , Ouranus 	. He wasn't sure what to do , he couldn't kill his children as they were immortal so he ate all 5 of his children when they were just infants . However , his wife Rhea hid baby <a href="#Zeus">Zeus</a> and gave Kronos a rock to eat instead . Since the five gods devoured by Kronos were immortal  they remained undigested in the titan's stomach and practically grew up there . Later when <a href="#Zeus">Zeus</a> grew up , he fed Kronos a mixture of mustard and wine which made him disorge (barf) his other children whereseas <a href="#Zeus">Zeus</a>'s brothers and sisters out . Then after all brothers and sisters were united there was a war between the gods and the titans . This battle went on for 10 years amongst the Titans and their supporters on one side and the Olympians and their allies . This conflict is also known as the Titanomachy . The Titans were based at Mount Othrys . Finally , the war ended in victory for Olympians when <a href="#Zeus">Zeus</a> cut his father into pieces like Kronos had done to Ouranus . The damaged was restored and the Golden Age was over .
 </p>
+
 <h3 id="infants"> Punishment of the Titans</h3>
 <p> Kronos's remains were shattered into Tatarus , the darkest part of the Underworld . And <a href="#Zeus">Zeus</a> was declared the king of the Olympians . The other Titans were immortal but were captured and weakened and were given endless punishment . For example , the Titan of Fire 'Prometheus' was given one of the worst punishments . He was chained near a mountain and every day an eagle (the symbol of Zeus ) would come and eat his liver . This causes Promethus a lot of pain . But since he's immortal he can't die so his liver grows back the next the eagle comes again and does the same thing . And so on for the rest of enternity . The only Titan who wasn't punished was Rhea , the Queen of the Titans . Becuase she had helped the Gods in the Titan War and had also hid <a href="Zeus">Zeus </a> from Kronos . Even though she wasn't she wasn't punished rather rewarded . She disappeared herself never to be seen again . Many believe the Queen of Titans is still out there just not showing herself . The other Titans were sent to Tatarus where Kronos's remains lied as well . They were trapped their for enternity , too .</p>
 <h3 id="Giant"> The First Giant War </h3>
@@ -49,12 +52,15 @@ Mimas was  killed by Hephaestus with a volley of molten iron.
 Polybotes was  crushed by Poseidon beneath the island of Nisyros.  Orion (born to oppose Apollo and Artemis ) did not participate in the First Giant War .
 And Periboia (born to oppose Aphrodite : The Goddess of Love )  was the only female giant among them . She was eventually killed by combined efforts of Hercules and Aphrodite . Finally , the first Giant War was over . </p>
 
+
 <h3 id="Apollo"> Demigods</h3>
 <p> When a god and mortal have a child . <em>he or she</em> is known as a <strong>demigod</strong> meaning (half-human and half-god ) . A demigod has powers he/she has obtained from their godly parent but they don't have all the powers their parents have . <em> especially</em> the power of <strong>immortality </strong> Demigods are very much mortal they can die the same way a normal human does . The only thing that differentiates them for mortals is their powers . These demigods are usually dyslexic . They can't read english but since one of their parent is an Ancient Greek God they can read Greek easily . They often are known as <em>heroes</em> as they are the one who kill monsters . Many renowed heroes like Hercules , Perseus and Theseus are also demigods .</p>
 
 <h3 id="Rome"> All Gods in Greek Mythology</h3>
 <ul id='Poseidon'>
 <li id="Zeus"> <strong>Zeus</strong> - King of Gods and the God of Sky and Lighting . Olympus is his palace and his symbol of power is his lightning bolt .  He had a lot of wifes , especially mortal wives . His first wife was Hera but he had many Olympian children like : <strong>Athena , Ares , Dionysus , Hephasethus , Hermes , Apollo , Artemis </strong>. Zeus has bad relations with both his brothers : Poseidon and Hades and also dislikes his son Apollo . He also punishes Dionysus often . Father : Kronos and Mother : Rhea </strong><br> </li>	<br>
+
+
 <li id="Horses"> <strong>Poseidon </strong>- God of Sea , Earthquakes and Horses . He has a throne in Olympus (Zeus's Palace) and is an Olympian himself . He is the father of the famous hero <strong> Theseus .</strong> He has a lot of powers and his children can breathe underwater and control the water .  Poseidon has an underwater palace . He is the lord of Earthquakes and created horses . He is also known as <strong> Father of Horses and Earthshaker</strong> His symbol of power is his trident which is his prized posession and a very valuable weapon . He has bad relation with Zeus as Poseidon tried to unseat him by participating in the First Olympian Riot . He also has rivarly with Athena . They both competed to be the God of Athens . The people of the city asked both of them to present some gifts . Poseidon made a saltwater spring appear . But the water was very salty and unfit for consumpition while Athena made an olive tree . The people of Athens saw the Olive Tree as a better present . Therefore , to honour Athena the capital city of Greece was name after her <strong> Athens .</strong> Poseidon is also hated by his brother , Hades . <strong> Father : Kronos and Mother : Rhea </strong></li><br>
 
 
