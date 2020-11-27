@@ -1,12 +1,15 @@
 # Bunny6409.github.io
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
-
+<h3> Click on these buttons and see the pictures/statues of these gods .</h3>
+<a href="https://en.wikipedia.org/wiki/Zeus#/media/File:Jupiter_Smyrna_Louvre_Ma13.jpg">   <button id="button"> Zeus</button></a><br>
+<a href="<img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 383px; height: 471.952px; margin: 0px;"> <button> Poseidon </button></a><br>
+<a href="<img alt="Mattei Athena Louvre Ma530 n2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/220px-Mattei_Athena_Louvre_Ma530_n2.jpg" decoding="async" width="220" height="440" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/330px-Mattei_Athena_Louvre_Ma530_n2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mattei_Athena_Louvre_Ma530_n2.jpg/440px-Mattei_Athena_Louvre_Ma530_n2.jpg 2x" data-file-width="1800" data-file-height="3600"> <button> Athena</button> </a>
     	
 <img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;">
 <span> <em>The major</em> <strong> Greek Gods</strong></span>
 
 
-<h2 id="Age" > The start of time </h2>
+<h2 id="Age"  > The start of time </h2>
 <p> According to Greek Mythology , there were 4 ages before the gods . The fourth age was entierly ruled by the Titans also known as the Golden Age .
 Ouranus (First Lord of Sky) and Gaia (Mother Earth) gave birth to 12 children . The race of these children were called the <strong> Titans </strong> 
 Before the Titans  . Ouranus and Gaia ruled . Ouranus controlled the sky and Gaia the Earth . 
