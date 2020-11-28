@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="new.css">
 <link rel="stylesheet" type="text/css" href="index.css">
 <link rel="stylesheet" type="text/css" href="stylus.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <div class="main">
 <ul>
 	
