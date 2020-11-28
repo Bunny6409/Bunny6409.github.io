@@ -2,6 +2,7 @@
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
 <link rel="stylesheet" type="text/css" href="greek.css">
 <link rel="stylesheet" type="text/css" href="new.css">
+<link rel="stylesheet" type="text/css" href="index.css"
 <div class="main">
 <ul>
 	
