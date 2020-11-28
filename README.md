@@ -3,6 +3,7 @@
 <link rel="stylesheet" type="text/css" href="greek.css">
 <link rel="stylesheet" type="text/css" href="new.css">
 <link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="stylus.css">
 <div class="main">
 <ul>
 	
@@ -13,7 +14,7 @@
 
 </div>
 <img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> <br>
-<span><strong> Poseidon</strong></span>
+<span><strong> Poseidon</strong></span><br>
     	
 <img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;"><br>
 <span> <em>The major</em> <strong> Greek Gods</strong></span>
@@ -43,17 +44,17 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <p> After the defeat of the Titans , Gaia was furious at the Olympians (her grandchildren) for throwing her beloved children . So she had a new race of children with the spirit of the pit of Tatarus . She gave birth to the first race of giants . All the giants were born with powers to kill a specific god .
 	
 </p>
-<ul id="Olympian"><li>Alcyoneus - Bane of<a href="#Hades"> Hades</a></li>
-	<li>Porphyrion (King of the giants) - Bane of <a href="#Zeus"> Zeus </a></li>
-<li> Polybotes - Bane of <a href="#Horses">Poseidon</a> </li>
-<li>Otis and Ephialtes (twins) - Bane of Dionysus</li>
-<li> Orion - Bane of Apollo and <a href="##Artemis">Artemis</a></li>
-<li> Hippolytus- Bane of Hermes</li>
-<li>Enceladus - <a href="#Athena">Bane of Athena</a></li>
-<li>Damasen - Bane of Ares</li>
-<li> Mimas - Bane of Hephaestus</li>
-<li>Periboia - Bane of Aphrodite</li>
-<li> Clytius - Bane of Hecate</li>
+<ul id="Olympian"><li>Alcyoneus - Bane of<a href="#Hades"> Hades</a></li><br>
+	<li>Porphyrion (King of the giants) - Bane of <a href="#Zeus"> Zeus </a></li><br>
+<li> Polybotes - Bane of <a href="#Horses">Poseidon</a> </li><br>
+<li>Otis and Ephialtes (twins) - Bane of Dionysus</li><br>
+<li> Orion - Bane of Apollo and <a href="##Artemis">Artemis</a></li><br>
+<li> Hippolytus- Bane of Hermes</li><br>
+<li>Enceladus - <a href="#Athena">Bane of Athena</a></li><br>
+<li>Damasen - Bane of Ares</li><br>
+<li> Mimas - Bane of Hephaestus</li><br>
+<li>Periboia - Bane of Aphrodite</li><br>
+<li> Clytius - Bane of Hecate</li><br>
 <li>Thoon - Bane of the Fates</li></ul>
 <table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
 	 There were different fates of all giants . An important thing to remember is that where there is good there is bad . Simiraly , where there is bad there is good . In the giants , Damasen was born to oppose Ares , the War God . So since he is the opposite of war a.k.a Ares he was born peaceful and helpful . He  spent his life in the mortal world living as a farmer. 
