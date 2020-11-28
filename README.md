@@ -1,10 +1,10 @@
 # Bunny6409.github.io
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
 <link rel="stylesheet" type="text/css" href="greek.css">
-<img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> 
+<img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> <br>
 <span><strong> Poseidon</strong></span>
     	
-<img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;">
+<img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;"><br>
 <span> <em>The major</em> <strong> Greek Gods</strong></span>
 
 
@@ -40,16 +40,16 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <li> Hippolytus- Bane of Hermes</li>
 <li>Enceladus - <a href="#Athena">Bane of Athena</a></li>
 <li>Damasen - Bane of Ares</li>
-<li> Mimas</a> - Bane of Hephaestus</li>
+<li> Mimas - Bane of Hephaestus</li>
 <li>Periboia - Bane of Aphrodite</li>
 <li> Clytius - Bane of Hecate</li>
 <li>Thoon - Bane of the Fates</li></ul>
 <table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
-	<p id=''dots''> There were different fates of all giants . An important thing to remember is that where there is good there is bad . Simiraly , where there is bad there is good . In the giants , Damasen was born to oppose Ares , the War God . So since he is the opposite of war a.k.a Ares he was born peaceful and helpful . He  spent his life in the mortal world living as a farmer. 
+	 There were different fates of all giants . An important thing to remember is that where there is good there is bad . Simiraly , where there is bad there is good . In the giants , Damasen was born to oppose Ares , the War God . So since he is the opposite of war a.k.a Ares he was born peaceful and helpful . He  spent his life in the mortal world living as a farmer. 
 One day, a drakon appeared in the mortal world and killed one of Damasen's farmer friends. In a rage, Damasen tracked down the drakon and killed it. He was condemned to Tartarus for slaying the drakon, which was ravaging the mortal world. In Tartarus, Damasen was constantly attacked by the drakon he destroyed in the mortal world. Every "day", the drakon regenerated and attacked again. Eventually, he built himself a hut out of the drakon's bones and skin. The best giant suffered the worst fate . 
 	
 
- </p>
+
 <p id="Hera"> The race of Giants had been born and <strong> the First Giant War</strong> erupted when Porphyrion kidnapped <a href="#Hera">Hera</a> (The Queen of the Olympians and wife of Zeus ) .  The only way to <em> kill a giant </em> is if a god and demigod work together . After Hera's kidnap , Porphyion attacked Olympus (palace of the Olympians where they have meetings ) The Fates (these are three old ladies who decide everyone's fate or future ) told Zeus that the Olympians could not defeat the giants without the help of a lion-skinned-mortal, <a href="#Zeus">Zeus</a>decided that this must mean his famous demigod son <strong> Hercules</strong> and he sent Athena (his daughter ) to find him . Hercules defeated Alyconeous (Bane of Hades ) . Alyconeous had a power that he couldn't be killed in his homeland or where he was born . His homeland was Pallene . So , Hercules defeated and killed him outside Pallene's borders . He had the help of <a href="#Zeus">Zeus</a> and together the god and demigod killed Alyconeous . While the King of Giants was also killed by Hercules and Zeus . While Clytius (born to oppose Hecate)  was killed when his head was set on fire by Hecate using torches . <strong> Fire was the weakness of Clytius .</strong> While as we know Damasen was banished to Tatarus by Gaia and his siblings .  Enceladus (born to oppose Athena) was killed under a mountain by Athena . Ephilates and Otis were killed by Dionysus (who was first a demigod during that but was later made a god ) and Artemis (Goddess of Hunt) . <a href="#Artemis">Artemis</a> tricked both of them into fighting and killing each other . Thoon was killed by the Fates using bronze clubs . Hippolytos was  killed by Hermes, who was  wearing an invisibility cap.
 Mimas was  killed by Hephaestus with a volley of molten iron.
 Polybotes was  crushed by Poseidon beneath the island of Nisyros.  Orion (born to oppose Apollo and Artemis ) did not participate in the First Giant War .
@@ -79,7 +79,7 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	However , The Hunters of Artemis can't die of any sickness or old age or even unusual accidents .
 </li> <br>
 <li><strong> Apollo</strong> - God of Sun , Archery , Healing , Poetry , Prophecy and Disease . Apollo is famously knowns as the <strong> God of Sun</strong> and also has a sun chariot which drives around the world . While he is the god of Poetry and also being twin brother of <a href="##Artemis"> Artemis  </a> he is also the god of Archery . And he is also god of healing and the god who prevents panamedics and other diseases .  His son Asklepios , is the god of medicene . He is also an immortal and a much better healer than Apollo . But less renowned . He can just look at you and tell if you suffered a fracture 10 years ago . Asklepios was the first one to ever develop the <strong> Physician's Curse</strong> which is a potion that can bring someone back to life . If someone dies by an arrow or disease or accident if he/she will just take a dose of the Physician's Curse before their death they won't die even under the most ghastly of circumstances .  However , when Askelepios gave someone the phyiscian's curse (this is the only time it happened ) they brought back someone from the dead . <strong><a href="#Hades"> Hades</a></strong> Lord of Dead complained to <strong><a href="#Zeus"> Zeus</a> </strong> . Zeus got paranoid that Askelpios will make every person immortal with that potion . So , Zeus slew him with his lightning bolt . Apollo was mad at Zeus for this but he knew better than to attack the King of Olympians directly . So he killed some of the Elder Cyclopes who made Zeus's lightning bolt . Zeus punished Apollo and there was a loathing between the two which could even lead to war . To make peace , Zeus made Asklepios - God of Medicine . 
-<li id="Athena"> <strong> Athena </strong> is goddess of wisdom , battle startegy . She is the daughter of Zeus . She has no mother has she sprang from Zeus's skull . The Capital of Greece was named after Athena . She has rivarly with Poseidon as she competed for the post of god of Athens . She is really wise being the goddess of wisdom . She was Zeus's favourtie daughter and Athena was a fierce warrior . She also dosen't get along with Ares . She is the Oympian whi prevents the gods from making unwise descisions .  </li>
+<li id="Athena"> <strong> Athena </strong> is goddess of wisdom , battle startegy . She is the daughter of Zeus . She has no mother has she sprang from Zeus's skull . The Capital of Greece was named after Athena . She has rivarly with Poseidon as she competed for the post of god of Athens . She is really wise being the goddess of wisdom . She was Zeus's favourtie daughter and Athena was a fierce warrior . She also dosen't get along with Ares . She is the Oympian who prevents the gods from making unwise descisions .  </li>
 
 </ul>
 
