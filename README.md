@@ -16,8 +16,6 @@
 <img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> <br>
 <span><strong> Poseidon</strong></span><br>
     	
-<img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;"><br>
-<span> <em>The major</em> <strong> Greek Gods</strong></span>
 
 
 <h2 id="Age"  > The start of time </h2>
