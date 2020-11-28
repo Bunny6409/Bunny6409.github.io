@@ -1,7 +1,7 @@
 # Bunny6409.github.io
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
 
-<img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 383px; height: 471.952px; margin: 0px;"> 
+<img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> 
 <span><strong> Poseidon</strong></span>
     	
 <img alt="Major Olympian Greek Gods, Goddesses, and Titans" class="n3VNCb" src="https://www.realmofhistory.com/wp-content/uploads/2018/05/Greek_gods_-goddesses.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="5465.469999995548" style="width: 383px; height: 215.375px; margin: 0px;">
@@ -65,7 +65,7 @@ And Periboia (born to oppose Aphrodite : The Goddess of Love )  was the only fem
 
 
 <li id="Horses"> <strong>Poseidon </strong>- God of Sea , Earthquakes and Horses . He has a throne in Olympus (Zeus's Palace) and is an Olympian himself . He is the father of the famous hero <strong> Theseus .</strong> He has a lot of powers and his children can breathe underwater and control the water .  Poseidon has an underwater palace . He is the lord of Earthquakes and created horses . He is also known as <strong> Father of Horses and Earthshaker</strong> His symbol of power is his trident which is his prized posession and a very valuable weapon . He has bad relation with Zeus as Poseidon tried to unseat him by participating in the First Olympian Riot . He also has rivarly with Athena . They both competed to be the God of Athens . The people of the city asked both of them to present some gifts . Poseidon made a saltwater spring appear . But the water was very salty and unfit for consumpition while Athena made an olive tree . The people of Athens saw the Olive Tree as a better present . Therefore , to honour Athena the capital city of Greece was name after her <strong> Athens .</strong> Poseidon is also hated by his brother , Hades . <strong> Father : Kronos and Mother : Rhea </strong><br> 
-	See the photo of <a href=".n3VNCb"> Poseidon</a>
+	
 
 </li><br>
 
