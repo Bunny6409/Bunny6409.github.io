@@ -2,8 +2,8 @@
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
 <link rel="stylesheet" type="text/css" href="greek.css">
 
-<img alt="🔱 Poseidon :: Greek God of the Sea"  id="sea" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 400px; height: 559px; margin: 0px;"> <br>
-<img alt="Zeus - Wikipedia" id="Lightning" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="4105.979999992996" style="width: 400px; height: 559px; margin: 0px;"><br>
+
+<img alt="Zeus - Wikipedia" id="Lightning" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="4105.979999992996" style="width: 268px; height: 559px; margin: 0px;"><br>
     	
 
 
