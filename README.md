@@ -1,6 +1,6 @@
 # Bunny6409.github.io
 <h1 id="Bronze"> All facts about <a href="#Age">Greek</a> Mythology</h1>
-
+<link rel="stylesheet" type="text/css" href="greek.css">
 <img alt="🔱 Poseidon :: Greek God of the Sea" class="n3VNCb" id="photo" src="https://www.greekmythology.com/images/mythology/poseidon_large_image_2.jpg" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="1812.8450000076555" style="width: 300px; height: 403.952px; margin: 0px;"> 
 <span><strong> Poseidon</strong></span>
     	
