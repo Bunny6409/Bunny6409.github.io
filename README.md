@@ -39,7 +39,7 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <li> Orion - Bane of Apollo and <a href="##Artemis">Artemis</a></li><br>
 <li> Hippolytus- Bane of Hermes</li><br>
 <li>Enceladus - <a href="#Athena">Bane of Athena</a></li><br>
-<li>Damasen - Bane of Ares</li><br>
+	<li>Damasen - Bane of <a href="#Ares">Ares</a></li><br>
 <li> Mimas - Bane of Hephaestus</li><br>
 <li>Periboia - Bane of Aphrodite</li><br>
 <li> Clytius - Bane of Hecate</li><br>
@@ -80,6 +80,8 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 </li> <br>
 <li><strong> Apollo</strong> - God of Sun , Archery , Healing , Poetry , Prophecy and Disease . Apollo is famously knowns as the <strong> God of Sun</strong> and also has a sun chariot which drives around the world . While he is the god of Poetry and also being twin brother of <a href="##Artemis"> Artemis  </a> he is also the god of Archery . And he is also god of healing and the god who prevents panamedics and other diseases .  His son Asklepios , is the god of medicene . He is also an immortal and a much better healer than Apollo . But less renowned . He can just look at you and tell if you suffered a fracture 10 years ago . Asklepios was the first one to ever develop the <strong> Physician's Curse</strong> which is a potion that can bring someone back to life . If someone dies by an arrow or disease or accident if he/she will just take a dose of the Physician's Curse before their death they won't die even under the most ghastly of circumstances .  However , when Askelepios gave someone the phyiscian's curse (this is the only time it happened ) they brought back someone from the dead . <strong><a href="#Hades"> Hades</a></strong> Lord of Dead complained to <strong><a href="#Zeus"> Zeus</a> </strong> . Zeus got paranoid that Askelpios will make every person immortal with that potion . So , Zeus slew him with his lightning bolt . Apollo was mad at Zeus for this but he knew better than to attack the King of Olympians directly . So he killed some of the Elder Cyclopes who made Zeus's lightning bolt . Zeus punished Apollo and there was a loathing between the two which could even lead to war . To make peace , Zeus made Asklepios - God of Medicine . 
 <li id="Athena"> <strong> Athena </strong> is goddess of wisdom , battle startegy . She is the daughter of Zeus . She has no mother has she sprang from Zeus's skull . The Capital of Greece was named after Athena . She has rivarly with Poseidon as she competed for the post of god of Athens . She is really wise being the goddess of wisdom . She was Zeus's favourtie daughter and Athena was a fierce warrior . She also dosen't get along with Ares . She is the Oympian who prevents the gods from making unwise descisions .  </li>
+<li id="Ares"><strong> Ares </strong> is the god of war and strength . He is the husband of Aphrodite . Ares is the god of war . He always likes it when there are wars because in each war the losing side has to pay tribute to Ares in some way . By giving him ship or gold or a precious weapon . This is why Ares likes wars being God of War . No one can compete with Ares in terms of strength . </li>
+
 
 </ul>
 
