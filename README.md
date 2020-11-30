@@ -40,8 +40,8 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <li> Hippolytus- Bane of Hermes</li><br>
 <li>Enceladus - <a href="#Athena">Bane of Athena</a></li><br>
 	<li>Damasen - Bane of <a href="#Ares">Ares</a></li><br>
-<li> Mimas - Bane of Hephaestus</li><br>
-<li>Periboia - Bane of Aphrodite</li><br>
+	<li> Mimas - Bane of<a href="#Vulcan"> Hephaestus</a></li><br>
+	<li>Periboia - Bane of <a href="#Aphrodite">Aphrodite</a></li><br>
 <li> Clytius - Bane of Hecate</li><br>
 <li>Thoon - Bane of the Fates</li></ul>
 <table align="center" class="toccolours" style="margin: 1em auto; clear: both;">
@@ -82,8 +82,9 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 <li id="Athena"> <strong> Athena </strong> is goddess of wisdom , battle startegy . She is the daughter of Zeus . She has no mother has she sprang from Zeus's skull . The Capital of Greece was named after Athena . She has rivarly with Poseidon as she competed for the post of god of Athens . She is really wise being the goddess of wisdom . She was Zeus's favourtie daughter and Athena was a fierce warrior . She also dosen't get along with Ares . She is the Oympian who prevents the gods from making unwise descisions .  </li>
 <li id="Ares"><strong> Ares </strong> is the god of war and strength . He is the husband of Aphrodite . Ares is the god of war . He always likes it when there are wars because in each war the losing side has to pay tribute to Ares in some way . By giving him ship or gold or a precious weapon . This is why Ares likes wars being God of War . No one can compete with Ares in terms of strength . </li>
 <li id="Wine"><strong> Dionysus</strong> is the god of wine . Dionysus was born a demigod as he was the son of Zeus and mortal Semele . A jealous Hera tricked Semele into demanding that Zeus reveal his true form to her. Gods can't show their true forms to mortals as the mortals would die . In their true form , they radiated with power and become about 10 feet tall . As a mortal, Semele could not look upon a god’s true form without dying. Zeus managed to rescue the unborn Dionysus by sewing him into his thigh. A few months later, Dionysus was born from Zeus’s thigh. In the First Giant War , Dionysus fought bravely . Therefore , as a reward for his services he was made an Olympian . The god of Wine . But since the laws state there can be only 12 Olympians <a href="##Hestia"> Hestia</a> gave up her throne for Dionysus . But then there was another calamity in Olympus as now there were 7 gods and 5 goddesses . Dionysus invented wine . But later , Dionysus grew a little restless and bored of his work . He started not taking his work seriously this led to Zeus punishing him often . </li>
-<li id="Aphrodite"><strong> Aphrodite </strong> is the goddess of love , beauty and doves . She was married to Hephaestus but she loved Ares , God of War . She is not warlike at all but she still is a god and has powers .  In a way , she caused the Trojan War by creating Helen . <br>
+<li id="Aphrodite"><strong> Aphrodite </strong> is the goddess of love , beauty and doves . She was married to Hephaestus but she loved Ares , God of War . She is not warlike at all but she still is a god and has powers .  In a way , she caused the Trojan War by creating Helen . She is the most ancient god even older than Zeus , Poseidon or Hades . When Ouranus was killed by Kronos and Ouranus's remains were put in the sea . Aphrodite was born from the blood of Ouranus .  <br>
 	Learn more about Trojan War : <a href="https://en.wikipedia.org/wiki/Trojan_War"> on Wikipedia </a>
+<li id="Vulcan"><strong>Hephaestus</strong> is the Greek God of Fire and Blacksmith . He is great at making things or machines and is a master of mechanism . He once even built mechanical eyes which were better than original eyes . Hephaestus is considered "ugly" by the other gods . His mother , Hera threw him off Mount Olympus when he was born because wasn't great in looks . He has a sharp mind . Zeus hastily made Aphrodite marry Hephaestus to prevent the other gods from fighitng over Aphrodite . His roman name is 'Vulcan' .
 	
 
 </li>
