@@ -88,6 +88,7 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	
 
 </li>
+<li> Hermes  - The god of thieves and travel . Yes , you heard right of thieves . He is also the god who carries mail from one person to another .  When Hermes was young he stole <a href="#Sun"> Apollo's</a> sacred cows . Apollo in turn got mad at Hermes . So Hermes quickly made the first muscial instrument <strong> the flute </strong> and gave it  to Apollo as a peace offering . Apollo being god of music took it . Hermes famously has flying shoes which help him fly and quickly deliever mail from one god to another . He has hundreds of these flying shoes and he sometimes gives it to his children . <strong> Parents : Zeus and Maia </strong></li>
 
 </ul>
 
