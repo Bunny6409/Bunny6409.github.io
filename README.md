@@ -94,7 +94,7 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 
 <h4 id="USA"> Minor Gods and Goddesses</h4>
 <h6> Note</h6>
-<p> There are about hundreds of minor gods and goddesses . These gods are not taken seriously and mistreated a lot . There are about 15 major gods including the 12 Olympians .  But the others are known as minor gods and goddesses . They are classified as minor as they don't have much territory or power . These gods aren't invinted in Mount Olympus and have to make their own palaces . I am going to list as many minors gods I can .</p>
+<p id="Minor"> There are about hundreds of minor gods and goddesses . These gods are not taken seriously and mistreated a lot . There are about 15 major gods including the 12 Olympians .  But the others are known as minor gods and goddesses . They are classified as minor as they don't have much territory or power . These gods aren't invinted in Mount Olympus and have to make their own palaces . I am going to list as many minors gods I can .</p>
 
 
 
