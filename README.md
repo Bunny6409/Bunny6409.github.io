@@ -95,7 +95,7 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 <h4 id="USA"> Minor Gods and Goddesses</h4>
 <h6> Note</h6>
 <p id="Minor"> There are about hundreds of minor gods and goddesses . These gods are not taken seriously and mistreated a lot . There are about 15 major gods including the 12 Olympians .  But the others are known as minor gods and goddesses . They are classified as minor as they don't have much territory or power . These gods aren't invinted in Mount Olympus and have to make their own palaces . I am going to list as many minors gods I can .</p>
-<ul>
+<ul id="Janus">
 	<li> <strong> Hypnos </strong> is the god of sleep . Son of Nyx and Erebus . He once put Zeus to sleep once on Hera's orders . He can also control dreams . </li>
 	<li> <strong> Aeolus </strong> is the god of winds . He can be thought of as a major or minor god . He also has 4 god assistants : gods of west , east , north and south winds . These 4 gods may be equivalents of the 4 Titans : Krios , Hyperion , Iapetus , Koios . He control everything that travels through the winds and also controls cyclones . The only reason he is a minor god is because he doesn't have much freedom over the skies as it is Zeus's territory .</li>
 	<li><strong> Kymopoleia</strong> is the goddess of sea storms . She is a child of Poseidon and a minor god . She can cause sea stroms anywhere but if they are really violents there might be charges for her . Like Aeolus , she doesn't have much control over the sea as it is her father , Poseidon's territory .  </li>
