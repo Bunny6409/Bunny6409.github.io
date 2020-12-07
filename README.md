@@ -100,8 +100,11 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	<li> <strong> Aeolus </strong> is the god of winds . He can be thought of as a major or minor god . He also has 4 god assistants : gods of west , east , north and south winds . These 4 gods may be equivalents of the 4 Titans : Krios , Hyperion , Iapetus , Koios . He control everything that travels through the winds and also controls cyclones . The only reason he is a minor god is because he doesn't have much freedom over the skies as it is Zeus's territory .</li>
 	<li><strong> Kymopoleia</strong> is the goddess of sea storms . She is a child of Poseidon and a minor god . She can cause sea stroms anywhere but if they are really violents there might be charges for her . Like Aeolus , she doesn't have much control over the sea as it is her father , Poseidon's territory .  </li>
 	<li><strong> Persephone </strong> is the daughter of <a href="##Demeter">Demeter</a> and <a href="#Zeus"> Zeus</a> . She married Hades and became the queen of the Underworld . She is also the goddess of winter .</li>
-
-
+	<li><strong> Boreas</strong> is the god of North Wind . He is also the father of Khione and Aeolus's personal deity . </li>
+	<li><strong> Notus</strong> is the god of South Wind . He is Aeolus's personal deity . </li>
+	<li><strong> Zephyrus </strong> is the god of west wind . West Wind is the most gentle of the 4 winds . He is Aeolus's deity .</li>
+	<li><strong> Eurus </strong> is the god of east wind . He is Aeolus's deity .</li>
+	<li><strong> Khione </strong> is the goddess of snow and ice . She is really powerful and can cause blizzards with a snap of the finger . She can turn people into ice statues . She is the daughter of Boreas . It is only <a href="#Vulcan">Hephasethus</a> is the only one who can resist these powers as he is the god of fire . There is no other god associated with ice or snow in greek mythology so this gives Khione full power over ice and snow . </li>
 </ul>
 
 
