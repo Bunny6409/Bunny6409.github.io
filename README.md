@@ -37,7 +37,7 @@ Soon after the birth of Kronos's children who were the <a href="#Poseidon">gods<
 <li> Polybotes - Bane of <a href="#Horses">Poseidon</a> </li><br>
 	<li>Otis and Ephialtes (twins) - Bane of <a href="#Wine"> Dionysus</a></li><br>
 	<li> Orion - Bane of <a href="#Sun">Apollo</a> and <a href="##Artemis">Artemis</a></li><br>
-<li> Hippolytus- Bane of Hermes</li><br>
+	<li> Hippolytus- Bane of <a href="#Shoes">Hermes</a></li><br>
 <li>Enceladus - <a href="#Athena">Bane of Athena</a></li><br>
 	<li>Damasen - Bane of <a href="#Ares">Ares</a></li><br>
 	<li> Mimas - Bane of<a href="#Vulcan"> Hephaestus</a></li><br>
@@ -88,14 +88,21 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	
 
 </li>
-<li> Hermes  - The god of thieves and travel . Yes , you heard right of thieves . He is also the god who carries mail from one person to another .  When Hermes was young he stole <a href="#Sun"> Apollo's</a> sacred cows . Apollo in turn got mad at Hermes . So Hermes quickly made the first muscial instrument <strong> the flute </strong> and gave it  to Apollo as a peace offering . Apollo being god of music took it . Hermes famously has flying shoes which help him fly and quickly deliever mail from one god to another . He has hundreds of these flying shoes and he sometimes gives it to his children . <strong> Parents : Zeus and Maia </strong></li>
+<li id="Shoes"><strong> Hermes</strong>  - The god of thieves and travel . Yes , you heard right of thieves . He is also the god who carries mail from one person to another .  When Hermes was young he stole <a href="#Sun"> Apollo's</a> sacred cows . Apollo in turn got mad at Hermes . So Hermes quickly made the first muscial instrument <strong> the flute </strong> and gave it  to Apollo as a peace offering . Apollo being god of music took it . Hermes famously has flying shoes which help him fly and quickly deliever mail from one god to another . He has hundreds of these flying shoes and he sometimes gives it to his children . <strong> Parents : Zeus and Maia </strong></li>
 
 </ul>
 
 <h4 id="USA"> Minor Gods and Goddesses</h4>
 <h6> Note</h6>
 <p id="Minor"> There are about hundreds of minor gods and goddesses . These gods are not taken seriously and mistreated a lot . There are about 15 major gods including the 12 Olympians .  But the others are known as minor gods and goddesses . They are classified as minor as they don't have much territory or power . These gods aren't invinted in Mount Olympus and have to make their own palaces . I am going to list as many minors gods I can .</p>
+<ul>
+	<li> <strong> Hypnos </strong> is the god of sleep . Son of Nyx and Erebus . He once put Zeus to sleep once on Hera's orders . He can also control dreams . </li>
+	<li> <strong> Aeolus </strong> is the god of winds . He can be thought of as a major or minor god . He also has 4 god assistants : gods of west , east , north and south winds . These 4 gods may be equivalents of the 4 Titans : Krios , Hyperion , Iapetus , Koios . He control everything that travels through the winds and also controls cyclones . The only reason he is a minor god is because he doesn't have much freedom over the skies as it is Zeus's territory .</li>
+	<li><strong> Kymopoleia</strong> is the goddess of sea storms . She is a child of Poseidon and a minor god . She can cause sea stroms anywhere but if they are really violents there might be charges for her . Like Aeolus , she doesn't have much control over the sea as it is her father , Poseidon's territory .  </li>
+	<li><strong> Persephone </strong> is the daughter of <a href="##Demeter">Demeter</a> and <a href="#Zeus"> Zeus</a> . She married Hades and became the queen of the Underworld . She is also the goddess of winter .</li>
 
+
+</ul>
 
 
 
