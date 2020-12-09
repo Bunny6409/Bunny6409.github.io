@@ -4,8 +4,7 @@
 
 
 
-<button a href="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jupiter_Smyrna_Louvre_Ma13.jpg" id="Button1"> Click here to see the photo of Zeus</button>
-    	
+
 
 
 <h2 id="Age"  > The start of time </h2>
