@@ -104,6 +104,9 @@ She even made Hypnos (God of Sleep ) put Zeus to sleep . She had a lot of childr
 	<li><strong> Zephyrus </strong> is the god of west wind . West Wind is the most gentle of the 4 winds . He is Aeolus's deity .</li>
 	<li><strong> Eurus </strong> is the god of east wind . He is Aeolus's deity .</li>
 	<li><strong> Khione </strong> is the goddess of snow and ice . She is really powerful and can cause blizzards with a snap of the finger . She can turn people into ice statues . She is the daughter of Boreas . It is only <a href="#Vulcan">Hephasethus</a> is the only one who can resist these powers as he is the god of fire . There is no other god associated with ice or snow in greek mythology so this gives Khione full power over ice and snow . </li>
+	<li><strong> Hecate is the goddess of magic .</strong> She was born a Titan but supported the gods in the first Titan War . She is the only minor god to fight in the first giant war . Also , the only minor god who had a giant born to oppose her . After the First Giant War , Hecate was honoured but slowly people and gods started forgetting about her . Thus , she became a minor goddess .</li>
+	<li><strong> Hebe is the goddess of youth .</strong> And the daughter of <a href="#Zeus"> Zeus </a> and <a href="#Heracles"> Hera</a></li>
+	<li><strong> Aristaeus</strong> is the god of animal husbandry . He is a son of Apollo .</li>
 </ul>
 
 
